@@ -6,3 +6,5 @@ Due to the sensitive nature of raw operation data and core monitoring tools from
 •	Data file “FM21_SIMULATE.pickle” and “FM21_MEASURED.pickle” contain position-wise simulated and measured normalized detector traces for FM21.
 •	Data file “FM50_SIMULATE.pickle” and “FM50_MEASURED.pickle” contain position-wise simulated and measured normalized detector traces for FM50.
 •	Data file “XENON21.pickle” contains normalized xenon axial profile for different depletion strategies as described in the Results section.    
+
+The figures and tables included in the publication are shared in dedicated subfolders.
